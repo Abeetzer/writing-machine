@@ -23,3 +23,7 @@ In the code folder, there is a processing and an Arduino sketch. The processing 
 
 # Step 7:
 insert a drawing utensil of choice and watch the machine work!!
+
+# Demo:
+https://youtu.be/-u3LldGbxoo (linear actuator progress check)
+https://youtu.be/W-81bSOllP4 (Demo for the completed project)
