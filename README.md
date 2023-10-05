@@ -3,6 +3,9 @@ This is my project on creating a drawing/writing machine. The ultimate goal was 
 
 In the file system is an mp4 of the keyboard in its prototype form.
 
+# Step 0:
+download STL files using provided link on left hand side of github page
+
 # Step 1:
 download the code.
 
